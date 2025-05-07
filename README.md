@@ -12,7 +12,7 @@
 <p align="center">
  <a href="#-descrição-do-entregável">Descrição do Entregável</a> •
  <a href="#-sobre-o-projeto">Sobre</a> •
- <a href="#-como-executar-o-projeto">Como executar</a> • 
+ <a href="#-como-acessar-o-projeto">Como acessar</a> • 
  <a href="#-tecnologias">Tecnologias</a> • 
  <a href="#-autor">Autor</a> • 
 </p>

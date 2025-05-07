@@ -90,15 +90,9 @@ Imobiliaria é um projeto desenvolvido com o objetivo de aplicar e consolidar os
 
 
 <!-- MODELO DE COMO EXECUTAR O PROJETO -->
-## 🚀 Como executar o projeto
-1 - Baixar o Projeto (git clone)  <br>
-`git clone https://github.com/anapicoli/Financely.git`
+## 🚀 Como acessar o projeto
 
-2 - Abrir a pasta em um editor de código <br>
-`cd imobiliaria`
-
-### Ou acesse por aqui
-Você também pode acessar clicando nesse link do Github Pages:
+Você pode acessar clicando nesse link do Github Pages:
 
 - [Imobiliaria](https://github.com/anapicoli/imobiliaria)
 

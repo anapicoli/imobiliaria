@@ -114,7 +114,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 ## 🦸 Autor
 
-Ana Picoli
+Ana Picoli,
 Lyvia Fernandes e
 Ester Brasil
  
